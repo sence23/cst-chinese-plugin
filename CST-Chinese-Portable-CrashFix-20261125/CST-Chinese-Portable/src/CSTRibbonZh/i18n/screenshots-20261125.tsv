@@ -1,0 +1,26 @@
+# View and simulation UI; terminology reviewed in CAD/EM context.
+Export Image	导出图像
+Text and Labels	文字与标注
+Wire Frame	线框显示
+Dimension	尺寸标注
+Orthographic	正交投影
+Axes Scaling	坐标轴缩放
+Tile Horizontally	水平平铺
+Tile Vertically	垂直平铺
+Tile Three	三窗口平铺
+Field Source Port	场源端口
+Field Import	导入场数据
+Voltage Monitor	电压监视器
+Current Monitor	电流监视器
+Pick Lists	拾取列表
+Intersection Check	相交检查
+Electrical Connections	电气连接
+Change View	视图切换
+Check	检查
+View Along X	沿 X 轴观察
+View Along Y	沿 Y 轴观察
+View Along Z	沿 Z 轴观察
+Show Working Plane	显示工作平面
+Hide Working Plane	隐藏工作平面
+Clear All Picks	清除所有拾取
+Show Mesh	显示网格

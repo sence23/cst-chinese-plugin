@@ -1,0 +1,28 @@
+Create Simulation Project	创建仿真工程
+Select Block Representation	选择模块表示方式
+All Blocks as 3D Model	所有模块显示为三维模型
+All Blocks as Schematic Model	所有模块显示为原理图模型
+Machine Simulation Sequence	电机仿真序列
+Hybrid Solver Task	混合求解器任务
+Biased Ferrite-EM Coupling	偏置铁氧体与电磁耦合
+EM-Thermal Coupling	电磁与热耦合
+Copy View	复制视图
+Logfile	日志文件
+Edit Properties	编辑属性
+Calculator	计算器
+Parametric Update	参数化更新
+Problem Type	问题类型
+Open Report	打开报告
+VBA Macros	VBA 宏
+Search (Alt+Q)	搜索 (Alt+Q)
+3D Run ID	三维运行编号
+Current Run	当前运行
+0: Current Run	0: 当前运行
+Raster=1.000	栅格=1.000
+Tetrahedrons	四面体
+Anchor Points	锚点
+Voxel Data	体素数据
+Design Space	设计空间
+Farfield Sources	远场源
+Voltage and Current Monitors	电压与电流监视器
+<Filter>	筛选

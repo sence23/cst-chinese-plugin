@@ -1,0 +1,269 @@
+# 场求解、离散/波导端口、集总元件、网格及边界条件。
+Solver	求解器
+Solvers	求解器
+Setup Solver	设置求解器
+Solver Settings	求解器设置
+Solver Parameters	求解器参数
+Start Simulation	启动仿真
+Stop Simulation	停止仿真
+Time Domain Solver	时域求解器
+Time Domain	时域
+Time Domain Solver Parameters	时域求解器参数
+Transient Solver	瞬态求解器
+Frequency Domain Solver	频域求解器
+Frequency Domain	频域
+Frequency Domain Solver Parameters	频域求解器参数
+Eigenmode Solver	本征模求解器
+Eigenmode	本征模
+Eigenmodes	本征模
+Integral Equation Solver	积分方程求解器
+Asymptotic Solver	渐近求解器
+Multilayer Solver	多层结构求解器
+Electrostatic Solver	静电场求解器
+Magnetostatic Solver	静磁场求解器
+Stationary Current Solver	稳恒电流求解器
+Low Frequency Solver	低频求解器
+Thermal Solver	热求解器
+Mechanical Solver	力学求解器
+Particle Tracking Solver	粒子跟踪求解器
+Wakefield Solver	尾场求解器
+Tracking Solver	轨迹跟踪求解器
+Particle Sources	粒子源
+Particle Source	粒子源
+Particle Emission Properties	粒子发射属性
+Particle Monitor	粒子监视器
+Particles	粒子
+Monte Carlo Collisions	蒙特卡罗碰撞
+Space Charge	空间电荷
+Wake Potential	尾势
+Co-Simulation	协同仿真
+Hybrid Solver	混合求解器
+Solver Type	求解器类型
+Solver Accuracy	求解器精度
+Accuracy	精度
+Accuracy Settings	精度设置
+Steady State	稳态
+Steady State Accuracy	稳态精度
+Residual	残差
+Tolerance	容差
+Convergence	收敛
+Convergence Criterion	收敛判据
+Maximum Number of Iterations	最大迭代次数
+Number of Iterations	迭代次数
+Frequency	频率
+Frequency Range	频率范围
+Frequency Samples	频率采样点
+Start Frequency	起始频率
+Stop Frequency	终止频率
+Upper Frequency	频率上限
+Lower Frequency	频率下限
+Frequency Sampling	频率采样
+Frequency Sweep	扫频
+Broadband	宽带
+Narrowband	窄带
+Adaptive Frequency Sampling	自适应频率采样
+Automatic Frequency Sampling	自动频率采样
+Wavelength	波长
+Wavelength Range	波长范围
+Time Step	时间步长
+Simulation Time	仿真时长
+Maximum Simulation Time	最大仿真时长
+Excitation	激励
+Excitations	激励
+Excitation Signal	激励信号
+Excitation Signals	激励信号
+Signal	信号
+Amplitude	幅度
+Phase	相位
+Time Delay	时延
+Reference Plane	参考面
+Distance to Reference Plane	到参考面的距离
+Reference Impedance	参考阻抗
+Impedance	阻抗
+Resistance	电阻
+Inductance	电感
+Capacitance	电容
+Resistor	电阻器
+Inductor	电感器
+Capacitor	电容器
+Sources and Loads	激励与负载
+Sources & Loads	激励与负载
+Sources	激励源
+Loads	负载
+Ports	端口
+Port	端口
+Waveguide Port	波导端口
+Discrete Port	离散端口
+Floquet Port	弗洛凯端口
+Lumped Element	集总元件
+Lumped Elements	集总元件
+Lumped Network Elements	集总网络元件
+Convert Port to Lumped Element	将端口转换为集总元件
+RLC Serial	串联 RLC
+RLC Parallel	并联 RLC
+Short Circuit	短路
+Open Circuit	开路
+Diode	二极管
+Spice Circuit	SPICE 电路
+Multipin sub-element	多引脚子元件
+Monitor voltage and current	监视电压和电流
+Electric Field	电场
+Magnetic Field	磁场
+Current Density	电流密度
+Surface Current	表面电流
+Voltage	电压
+Current Source	电流源
+Voltage Source	电压源
+Plane Wave	平面波
+Plane Wave Excitation	平面波激励
+Nearfield Source	近场源
+Farfield Source	远场源
+Field Source	场源
+Source Field	源场
+External Field	外加场
+Boundary	边界
+Boundaries	边界条件
+Boundary Conditions	边界条件
+Electric	电
+Magnetic	磁
+Open (add space)	开放（添加空间）
+Electric (Et = 0)	电边界（Et = 0）
+Magnetic (Ht = 0)	磁边界（Ht = 0）
+Periodic	周期性
+Unit Cell	单元胞
+Symmetry	对称
+Symmetry Planes	对称面
+Symmetry Plane	对称面
+Electric Symmetry	电对称
+Magnetic Symmetry	磁对称
+Phase Shift	相移
+Incident Wave	入射波
+Incident Angle	入射角
+Angle of Incidence	入射角
+Polarization	极化
+Propagation Direction	传播方向
+Propagation Constant	传播常数
+Wave Vector	波矢
+Wave Number	波数
+Mode	模式
+Modes	模式
+Mode Number	模式编号
+Number of Modes	模式数
+Port Number	端口号
+Port Mode	端口模式
+Port Modes	端口模式
+Port Impedance	端口阻抗
+Line Impedance	线阻抗
+Calculate Modes Only	仅计算模式
+Integration Line	积分线
+Calibration Line	校准线
+Orientation and Direction	朝向与方向
+Monitors	监视器
+Field Monitors	场监视器
+Field Monitor	场监视器
+Farfield Monitor	远场监视器
+E-Field Monitor	电场监视器
+H-Field Monitor	磁场监视器
+Field Probe	场探针
+Probe	探针
+Probes	探针
+Monitor on Entity	在几何实体上监视
+Monitor Type	监视器类型
+Mesh	网格
+Mesh View	网格视图
+Mesh Settings	网格设置
+Mesh Type	网格类型
+Mesh Control	网格控制
+Mesh Operations	网格操作
+Global Mesh Properties	全局网格属性
+Local Mesh Properties	局部网格属性
+Mesh Properties	网格属性
+Mesh Generation	网格生成
+Generate Mesh	生成网格
+Update Mesh	更新网格
+Mesh Refinement	网格细化
+Adaptive Mesh Refinement	自适应网格细化
+Adaptive Mesh	自适应网格
+Number of Passes	迭代轮数
+Minimum Number of Passes	最少迭代轮数
+Maximum Number of Passes	最多迭代轮数
+Mesh Cells	网格单元
+Number of Mesh Cells	网格单元数
+Mesh Cell Size	网格单元尺寸
+Maximum Cell Size	最大单元尺寸
+Minimum Cell Size	最小单元尺寸
+Lines per Wavelength	每波长网格线数
+Cells per Wavelength	每波长网格单元数
+Tetrahedral	四面体
+Hexahedral	六面体
+Tetrahedral Mesh	四面体网格
+Hexahedral Mesh	六面体网格
+Surface Mesh	表面网格
+Volume Mesh	体网格
+Fixpoints	固定点
+Fixpoint List	固定点列表
+Mesh Statistics	网格统计
+3D Mesh	三维网格
+Local Properties	局部属性
+Global Properties	全局属性
+Mesh Density	网格密度
+Field Solver	场求解器
+Distributed Computing	分布式计算
+Hardware Acceleration	硬件加速
+Acceleration	加速
+Number of Threads	线程数
+Use CPU Acceleration	使用 CPU 加速
+Use GPU Acceleration	使用 GPU 加速
+Network Computing	网络计算
+Parameter Sweep	参数扫描
+Par. Sweep	参数扫描
+Sweep Parameters	扫描参数
+Parameter Range	参数范围
+Number of Samples per Parameter	每个参数的采样点数
+Optimizer	优化器
+Optimization	优化
+Optimization Goals	优化目标
+Goals	目标
+Add new goal	添加新目标
+Goal	目标
+Weight	权重
+Target	目标
+Yield Analysis	良率分析
+Thermal	热学
+Heat Source	热源
+Thermal Losses	热损耗
+Heat Flow	热流
+Heat Transfer Coefficient	换热系数
+Temperature	温度
+Ambient Temperature	环境温度
+Convection	对流
+Radiation	辐射
+Emissivity	发射率
+Flow Resistance	流阻
+Coil	线圈
+Coils	线圈
+Windings	绕组
+Number of Windings	绕组数
+Magnetic Flux	磁通量
+Magnetic Flux Density	磁通密度
+Electric Potential	电势
+Magnetic Vector Potential	磁矢势
+Charge Density	电荷密度
+Stored Energy	储能
+Field Energy	场能
+Continuity	连续性
+Interior Boundaries	内部边界
+Motion	运动
+Semiconductor	半导体
+Sensitivity Analysis	灵敏度分析
+Simulation Project	仿真工程
+Parametric Sweep	参数化扫描
+Mesh Adaptation	网格自适应
+Delta S	S 参数变化量
+Port Signals	端口信号
+Electric Current	电流
+Magnetic Current	磁流
+Time Domain Signals	时域信号
+Performance	性能
+Losses	损耗
+SAR	比吸收率（SAR）

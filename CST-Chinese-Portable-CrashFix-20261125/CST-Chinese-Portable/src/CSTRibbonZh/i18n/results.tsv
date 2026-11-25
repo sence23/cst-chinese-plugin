@@ -1,0 +1,193 @@
+# 结果树、场与电路曲线、远场绘图、图表设置及报告。
+Results	结果
+1D Results	一维结果
+2D/3D Results	二维/三维结果
+3D Results	三维结果
+0D Results	零维结果
+Tables	表格
+Farfields	远场
+Farfield	远场
+Nearfield	近场
+Farfield Results	远场结果
+Time Signals	时域信号
+S-Parameters	S 参数
+S Parameters	S 参数
+S-Parameter	S 参数
+Z-Parameters	Z 参数
+Y-Parameters	Y 参数
+S-Matrix	散射矩阵
+Impedance Matrix	阻抗矩阵
+Admittance Matrix	导纳矩阵
+Admittance	导纳
+Return Loss	回波损耗
+Insertion Loss	插入损耗
+Reflection Coefficient	反射系数
+Transmission Coefficient	传输系数
+Group Delay	群时延
+Quality Factor	品质因数
+Q-Factor	品质因数
+Resonance Frequency	谐振频率
+Resonant Frequency	谐振频率
+Bandwidth	带宽
+Directivity	方向性
+Gain	增益
+Realized Gain	实现增益
+Radiation Efficiency	辐射效率
+Total Efficiency	总效率
+Radiated Power	辐射功率
+Accepted Power	接收功率
+Incident Power	入射功率
+Reflected Power	反射功率
+Power Balance	功率平衡
+Power Loss	功率损耗
+Power Loss Density	功率损耗密度
+Loss Density	损耗密度
+Power Flow	功率流
+Power	功率
+Electric Energy Density	电场能量密度
+Magnetic Energy Density	磁场能量密度
+Voltages	电压
+Currents	电流
+Impedances	阻抗
+E-Field	电场
+H-Field	磁场
+Electric Field Strength	电场强度
+Magnetic Field Strength	磁场强度
+1D Plot	一维绘图
+2D Plot	二维绘图
+2D/3D Plot	二维/三维绘图
+3D Plot	三维绘图
+Farfield Plot	远场图
+Farfield Cuts	远场切面
+Polar Plot	极坐标图
+Cartesian Plot	直角坐标图
+Smith Chart	史密斯圆图
+Polar	极坐标
+Plot	绘图
+Plots	图表
+Plot Properties	绘图属性
+Plot Data (ASCII)	绘图数据（ASCII）
+Plot Type	绘图类型
+Plot Options	绘图选项
+Plot Mode	绘图模式
+Axes Properties	坐标轴属性
+Axis Properties	坐标轴属性
+Auto Scale	自动缩放
+Autoscale	自动缩放
+X Range	X 轴范围
+Y Range	Y 轴范围
+X Label	X 轴标签
+Y Label	Y 轴标签
+Label	标签
+Labels	标签
+Legend	图例
+Show Legend	显示图例
+Title	标题
+Line Style	线型
+Line Width	线宽
+Line Color	线条颜色
+Marker	标记
+Markers	标记
+Add Marker	添加标记
+Delete Marker	删除标记
+Marker Position	标记位置
+Cursor	光标
+Magnitude	幅值
+Absolute Value	绝对值
+Real	实部
+Imaginary	虚部
+Real Part	实部
+Imaginary Part	虚部
+Phase Angle	相角
+Unwrap Phase	展开相位
+Decibel	分贝
+Magnitude in dB	幅值（dB）
+Linear Scale	线性刻度
+Logarithmic Scale	对数刻度
+Maximum Value	最大值
+Minimum Value	最小值
+Average	平均值
+RMS	均方根
+Normalization Factor	归一化因子
+Farfield Plot Properties	远场绘图属性
+Farfield Type	远场类型
+Axial Ratio	轴比
+Polarization Type	极化类型
+Main Lobe Direction	主瓣方向
+Side Lobe Level	旁瓣电平
+Angular Width	角宽度
+Theta	θ 角
+Phi	φ 角
+Azimuth	方位角
+Elevation	仰角
+Cut Plane	剖切面
+Cutplane	剖切面
+Cutplanes	剖切面
+Field Lines	场线
+Streamlines	流线
+Arrows	箭头
+Animation	动画
+Animate	播放动画
+Frames	帧
+Frame Rate	帧率
+Color Ramp	色标
+Color Map	颜色映射
+Contour	等值线
+Isosurface	等值面
+Field Distribution	场分布
+Field Calculator	场计算器
+Result Templates	结果模板
+Template Based Post-Processing	基于模板的后处理
+Template Based Postprocessing	基于模板的后处理
+Signal Post-Processing	信号后处理
+2D/3D Field Post-Processing	二维/三维场后处理
+Evaluate	计算
+Evaluate All	全部计算
+Result Type	结果类型
+Result Tree	结果树
+Delete Results	删除结果
+Export Results	导出结果
+Export Data	导出数据
+Export Plot Data	导出绘图数据
+ASCII Export	导出 ASCII 数据
+Save Picture	保存图片
+Report	报告
+Add to Report	添加到报告
+Report and Graphics	报告与图形
+New Report	新建报告
+Generate Report	生成报告
+Result Data	结果数据
+Result Folder	结果文件夹
+Change Folder	更改文件夹
+Filter Analysis	滤波器分析
+Farfield Monitor Results	远场监视器结果
+Field Probe Signals	场探针信号
+Port Information	端口信息
+Port Impedances	端口阻抗
+Power Accepted	接收功率
+Radiation Pattern	辐射方向图
+Farfield Pattern	远场方向图
+Beamwidth	波束宽度
+Gain (IEEE)	增益（IEEE）
+Peak Gain	峰值增益
+Unit Cell Results	单元胞结果
+Field Components	场分量
+Vector Components	矢量分量
+Surface Integral	面积分
+Volume Integral	体积分
+Line Integral	线积分
+Maxima	极大值
+Minima	极小值
+Frequency Axis	频率轴
+Time Axis	时间轴
+Data Series	数据系列
+Sampling	采样
+Interpolation	插值
+Time Domain Results	时域结果
+Frequency Domain Results	频域结果
+2D/3D Result View	二维/三维结果视图
+Result View	结果视图
+Result Table	结果表
+Contour Lines	等值线
+Field Strength	场强
+Power Spectral Density	功率谱密度

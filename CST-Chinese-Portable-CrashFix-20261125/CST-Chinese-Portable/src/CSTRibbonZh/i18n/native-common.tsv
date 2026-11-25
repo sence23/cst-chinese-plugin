@@ -1,0 +1,124 @@
+# 从原生界面资源核对补充的通用命令、绘图和脚本调试术语。
+Bring to Front	置于顶层
+Send to Back	置于底层
+Static	静态
+Nudge Down	向下微移
+Nudge Left	向左微移
+Nudge Right	向右微移
+Nudge Up	向上微移
+Show Next Statement	显示下一条语句
+Snap to Grid	对齐网格
+Ungroup	取消组合
+Activate	激活
+Align Bottom	底部对齐
+Align Center	水平居中
+Align Left	左对齐
+Align Middle	垂直居中
+Align Right	右对齐
+Align Top	顶部对齐
+All Files (*.*)	所有文件 (*.*)
+Angle Snap	角度捕捉
+Auto Range	自动范围
+Auto Tick	自动刻度
+Bring Forward	上移一层
+Closed Curve	闭合曲线
+Define Units	定义单位
+Design Mode	设计模式
+Drawing	绘图
+Edit User Dialog	编辑用户对话框
+Edit Vertices	编辑顶点
+Event Bar	事件栏
+Flip Horizontal	水平翻转
+Flip Vertical	垂直翻转
+Fmax:	最高频率：
+Fmin:	最低频率：
+Front	正面
+Hollow	空心
+Ignore Selected Blocks	忽略选中的模块
+Image	图像
+Insert Control	插入控件
+Layout Bar	布局栏
+Line Type:	线型：
+Make Same Size	统一尺寸
+Max:	最大值：
+Min:	最小值：
+Next Tip	下一条提示
+Nudge	微移
+Open New Macro	打开新宏
+Other...	其他…
+Period:	周期：
+Polycurve	多段曲线
+Quick Watch	快速监视
+Remove All Breakpoints	移除所有断点
+Rotate Left	向左旋转
+Rotate Right	向右旋转
+Run to Cursor	运行到光标
+Samples:	采样点数：
+Send Backward	下移一层
+Set Next Statement	设置下一条语句
+Show Axis Marker	显示坐标轴标记
+Show Measure Lines	显示测量线
+Show Object	显示对象
+Space Across	水平等距分布
+Space Down	垂直等距分布
+Step Into	逐语句执行
+Step Width:	步长：
+Structure	结构
+TabStop	制表位
+Text	文本
+Time Averaging	时间平均
+Toggle Breakpoint	切换断点
+Toolbar Name:	工具栏名称：
+Transparent	透明
+View Annotations	查看注释
+View Curve Markers	查看曲线标记
+Zoom Normal	正常缩放
+Zoom to Fit	缩放至适合窗口
+%1 contained an unexpected object.	%1 包含意外的对象。
+%1 contains an incorrect path.	%1 包含不正确的路径。
+%1 contains an incorrect schema.	%1 包含不正确的架构。
+%1 has a bad format.	%1 的格式不正确。
+%1 was not found.	未找到 %1。
+%i point	%i 磅
+(New Tool)	（新工具）
+(No description available)	（暂无说明）
+(None)	（无）
+(Unassigned)	（未分配）
+1D Plot Properties	一维图属性
+2D Contour	二维等值线
+2D Plane:	二维平面：
+2D to 3D Frequency Map	二维至三维频率映射
+3D Contour	三维等值面
+[Design]	［设计］
+A required resource was unavailable.	所需资源不可用。
+Abort Entire Sequence	中止整个序列
+Abort Simulation	中止仿真
+About CST License Manager	关于 CST 许可证管理器
+About SIMULIA CST License Wizard	关于 SIMULIA CST 许可证向导
+Above	上方
+Abscissa:	横坐标：
+Access to %1 was denied.	访问 %1 被拒绝。
+Across	横向
+Activate Selected Window	激活选中的窗口
+Activate Task List	激活任务列表
+Activate This Window	激活此窗口
+Active Licenses...	当前许可证…
+Active Nodes:	当前节点：
+Active Script	当前脚本
+Active Workspace:	当前工作区：
+ActiveX Script Error	ActiveX 脚本错误
+Actual minimum number of domains:	实际最少域数：
+Add a Curve Marker	添加曲线标记
+Add a folder for user-defined result	为用户自定义结果添加文件夹
+Add an Annotation	添加注释
+Add Annotation	添加注释
+Add Curve Marker	添加曲线标记
+Add or Remove Breakpoint	添加或移除断点
+Add Postfix	添加后缀
+Add to Watch	添加到监视
+Add Variable to Watch	添加变量到监视
+Additional Marks	附加标记
+Adjust Tissues to Frequency	按频率调整组织参数
+Align Bottoms	底部对齐
+Align Centers	水平居中
+Align Controls	对齐控件

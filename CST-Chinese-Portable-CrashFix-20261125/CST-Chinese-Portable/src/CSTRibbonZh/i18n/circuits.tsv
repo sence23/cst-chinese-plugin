@@ -1,0 +1,215 @@
+# 原理图、电路联仿、印刷电路板布局与设计规则检查、线缆及任务。
+Circuit Elements	电路元件
+Circuit Element	电路元件
+Circuit Simulation	电路仿真
+Circuits & Systems	电路与系统
+Block	模块
+Blocks	模块
+Block Library	模块库
+Library Blocks	库模块
+Block Properties	模块属性
+Block Parameters	模块参数
+Block Type	模块类型
+Model Type	模型类型
+Ideal	理想模型
+Parasitic (1st Order)	一阶寄生模型
+Parasitic SMD Model	贴片器件寄生模型
+Ground	接地
+External Port	外部端口
+Connection	连接
+Connector	连接器
+Connection Label	连接标签
+Net	网络
+Subcircuit	子电路
+Subcircuits	子电路
+Netlist	网表
+Netlist Segmentation	网表分段
+SPICE to schematic import	从 SPICE 导入原理图
+Spice Extraction	SPICE 模型提取
+Multi Touchstone file selection	选择多个 Touchstone 文件
+Transmission Line	传输线
+Coupled Lines	耦合线
+Microstrip Line	微带线
+Stripline	带状线
+Coaxial Line	同轴线
+Characteristic Impedance	特性阻抗
+Electrical Length	电长度
+Transmission Lines	传输线
+Transformer	变压器
+Coupling Coefficient	耦合系数
+Mutual Inductance	互感
+Series Resistance	串联电阻
+Parallel Resistance	并联电阻
+Series Inductance	串联电感
+Series Capacitance	串联电容
+Equivalent Series Resistance	等效串联电阻
+Equivalent Series Inductance	等效串联电感
+Schematic View	原理图视图
+System Assembly and Modeling	系统装配与建模
+Tasks	任务
+Task	任务
+New Task	新建任务
+Task Properties	任务属性
+AC Task	交流分析任务
+DC Task	直流分析任务
+Transient Task	瞬态分析任务
+S-Parameter Task	S 参数分析任务
+Circuit Task	电路仿真任务
+Simulation Tasks	仿真任务
+Array Task	阵列任务
+Array Factor	阵列因子
+Array Layout	阵列布局
+Electrical Machine	电机
+Project Dependencies	工程依赖关系
+Update File References	更新文件引用
+Start Task	启动任务
+Run All	全部运行
+Frequency Samples List	频率采样点列表
+Waveform	波形
+Waveforms	波形
+Pulse	脉冲
+Pulse Width	脉冲宽度
+Rise Time	上升时间
+Fall Time	下降时间
+Bit Rate	比特率
+Bit Sequence	比特序列
+Eye Diagram	眼图
+Eye Mask	眼图模板
+Eye Masks	眼图模板
+New Eye Mask	新建眼图模板
+Jitter	抖动
+Circuit Simulator	电路仿真器
+Load Impedance	负载阻抗
+Termination	端接
+Terminals	端子
+Terminal	端子
+Source Impedance	源阻抗
+Stimulus	激励信号
+Stimuli	激励信号
+New Stimulus	新建激励信号
+Time Step Size	时间步长
+Initial Conditions	初始条件
+Switch	开关
+Node	节点
+Pin	引脚
+Pins	引脚
+Pin Number	引脚号
+Component Parameters	组件参数
+Pin Name	引脚名称
+PCB Layout	PCB 布局
+Edit PCB	PCB 编辑
+PCBs & Packages	印刷电路板与封装
+Board	电路板
+Board Outline	板框
+Board Properties	电路板属性
+Board Thickness	板厚
+Layers	层
+Layer	层
+Layer Name	层名称
+Layer Type	层类型
+Signal Layer	信号层
+Dielectric Layer	介质层
+Copper Layer	铜层
+Stackup	叠层
+Stackup Manager	叠层管理器
+Stackup Editor	叠层编辑器
+Nets	网络
+Net Name	网络名称
+New Net	新建网络
+Edit Net	编辑网络
+Edit Nets	编辑网络
+Net Classes	网络类
+Edit Net Classes	编辑网络类
+Net Editor	网络编辑器
+Select Nets	选择网络
+Selected Nets	已选网络
+Pads	焊盘
+Pad	焊盘
+Pad Stacks	焊盘叠层
+Pad Stack	焊盘叠层
+New Pad Stack	新建焊盘叠层
+Via	过孔
+Vias	过孔
+New Via	新建过孔
+Trace	走线
+Traces	走线
+New Trace	新建走线
+Edit Trace	编辑走线
+Edit Traces	编辑走线
+Trace Width	走线宽度
+Trace Length	走线长度
+Areas	铜区
+New Area	新建铜区
+Clearance	间距
+Footprint	封装
+Footprints	封装
+Drill Diameter	钻孔直径
+Outer Layer	外层
+Inner Layer	内层
+Technology	工艺
+Virtual Components	虚拟组件
+New Virtual Component	新建虚拟组件
+Edit Virtual Components	编辑虚拟组件
+Component Tagging	组件分类标记
+Component Translation	组件转换
+Load Parts	加载零件
+New Part	新建零件
+Part Library	零件库
+New Terminal	新建端子
+New Object	新建对象
+Edit Components	编辑组件
+Board Layers	板层
+Rule Checking	规则检查
+Layout Check	布局检查
+Check Layout	检查布局
+Start CST BOARDCHECK	启动 CST BOARDCHECK
+EDA Import	EDA 导入
+View EDA Import Logfile	查看 EDA 导入日志
+EDA Settings	EDA 设置
+Rectangular Cut	矩形裁切
+Polygonal Cut	多边形裁切
+Edit Layout	编辑布局
+Design Info	设计信息
+Signal Spec	信号规范
+Signal Specifications	信号规范
+New Signal Specification	新建信号规范
+DDR4 Analysis	DDR4 分析
+Impedance Calculator	阻抗计算器
+Optimize Impedance	优化阻抗
+Optimize	优化
+Differential Pair	差分对
+Differential Pairs	差分对
+Differential Impedance	差分阻抗
+Common Mode	共模
+Differential Mode	差模
+Crosstalk	串扰
+Near End Crosstalk	近端串扰
+Far End Crosstalk	远端串扰
+Power Integrity	电源完整性
+Signal Integrity	信号完整性
+Annotations	标注
+Annotation	标注
+Go To	转到
+Export to CST MICROWAVE STUDIO	导出到 CST MICROWAVE STUDIO
+Cables	线缆
+Cable	线缆
+Cable Harness	线束
+Cable Bundle	线缆束
+Cable Types	线缆类型
+Cable Type	线缆类型
+Cable Shield	线缆屏蔽层
+Shield	屏蔽层
+Twisted Pair	双绞线
+Single Wire	单根导线
+Ribbon Cable	扁平电缆
+Cable Navigation Tree	线缆导航树
+Connectivity	连接关系
+Route	布线路径
+Cross Sections	横截面
+Cable Network	线缆网络
+Wire Diameter	导线直径
+Insulation	绝缘层
+Transfer Impedance	转移阻抗
+Series Connection	串联连接
+Parallel Connection	并联连接
+Ports and Components	端口与组件

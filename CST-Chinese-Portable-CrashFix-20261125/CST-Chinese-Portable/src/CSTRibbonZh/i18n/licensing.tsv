@@ -1,0 +1,44 @@
+# 授权配置窗口与 FlexNet 提示。只翻译显示文本，主机名、端口、路径、错误编号与许可内容保持原值。
+Specify License	指定许可证
+Licensing options	许可选项
+Import a Flexnet-based CST Studio Suite license file	导入 CST Studio Suite 的 FlexNet 许可证文件
+Point to an existing Flexnet-based CST Studio Suite license server system	连接现有的 CST Studio Suite FlexNet 许可证服务器
+Point to an existing DSLS-based license server system	连接现有的 DSLS 许可证服务器
+Please specify the path to a license file received from Dassault Systemes:	请选择达索系统提供的许可证文件：
+Please specify the path to a license file received from Dassault Systèmes:	请选择达索系统提供的许可证文件：
+The content of this file will be copied to the installation directory.	此文件的内容将复制到安装目录。
+You can change the port number used by the local license server.	您可以更改本地许可证服务器使用的端口号。
+Follow server declarations in CSTD_LICENSE_FILE	采用 CSTD_LICENSE_FILE 指定的服务器设置
+Please specify your Flexnet-based license server:	请指定 FlexNet 许可证服务器：
+Please specify your DSLS-based license server:	请指定 DSLS 许可证服务器：
+Three-server redundant license system	三服务器冗余许可系统
+As primary	作为主服务器
+Secondary	第二服务器
+Tertiary	第三服务器
+For best performance, when using three-server redundant license systems, please specify the servers in the same order as specified in the license file.	使用三服务器冗余许可系统时，为获得最佳性能，请按许可证文件所列顺序填写服务器。
+Invalid (inconsistent) license key.	许可证密钥无效（数据不一致）。
+Invalid (inconsistent) license key or signature.	许可证密钥或签名无效（数据不一致）。
+The license key and data for the feature do not match.	此功能的许可证密钥与授权数据不匹配。
+This usually happens when a license file has been altered.	许可证文件发生改动时通常会出现此问题。
+Server	服务器
+License	许可证
+Licenses	许可证
+Licensing	许可管理
+License Manager	许可证管理器
+License Server	许可证服务器
+License File	许可证文件
+License Server Port	许可证服务器端口
+Server Name	服务器名称
+Feature	授权功能
+License path	许可证路径
+FlexNet Licensing error	FlexNet 许可错误
+License Configuration	许可证配置
+Floating License	浮动许可证
+Node Locked License	节点锁定许可证
+Cannot find license file.	找不到许可证文件。
+Invalid license file syntax.	许可证文件语法无效。
+Licensed number of users already reached.	许可用户数已达到上限。
+No such feature exists.	未找到该授权功能。
+Feature has expired.	该授权功能已过期。
+Cannot connect to license server system.	无法连接到许可证服务器。
+License checkout failed.	获取许可失败。

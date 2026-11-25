@@ -1,0 +1,251 @@
+# 三维建模、材料、坐标系、拾取、布尔运算与导入。
+Components	组件
+Component	组件
+Shapes	形状
+Shape	形状
+Solids	实体
+Solid	实体
+Sheets	薄片
+Sheet	薄片
+Curves	曲线
+Curve	曲线
+Wires	导线
+Wire	导线
+Groups	分组
+Group	分组
+Brick	长方体
+Cylinder	圆柱体
+Elliptical Cylinder	椭圆柱体
+Cone	圆锥体
+Sphere	球体
+Torus	圆环体
+Rectangle	矩形
+Circle	圆
+Ellipse	椭圆
+Polygon	多边形
+Polyline	折线
+Line	直线
+Arc	圆弧
+Spline	样条曲线
+Helix	螺旋线
+Bond Wire	键合线
+Extrude	拉伸
+Extrusions	拉伸
+Extrude Curve	拉伸曲线
+Extrude Face	拉伸面
+Rotate Face	旋转面
+Loft	放样
+Sweep	扫掠
+Sweep Curve	扫掠曲线
+Cover Curve	覆盖曲线
+Cover Curves	覆盖曲线
+Thicken Sheet	加厚薄片
+Shell Solid	抽壳
+Transformation	变换
+Transform	变换
+Translate	平移
+Translation	平移
+Rotation	旋转
+Mirror	镜像
+Scaling	缩放
+Reflection	反射
+Repetitions	重复次数
+Multiple Objects	多个对象
+Copy Object	复制对象
+Copy Objects	复制对象
+Boolean	布尔运算
+Boolean Operations	布尔运算
+Subtract	相减
+Intersect	求交
+Intersection	交集
+Union	并集
+Insert Shape	插入形状
+Trim	修剪
+Imprint	压印
+Slice	切割
+Split	分割
+Blend	圆角
+Chamfer	倒角
+Blend Edges	边倒圆
+Chamfer Edges	边倒角
+Modify Locally	局部修改
+Remove Feature	移除特征
+Remove Selected Face	移除选定面
+Offset Face	偏移面
+Pull	拖拉
+Align	对齐
+Coordinate System	坐标系
+Local Coordinate System	局部坐标系
+Global Coordinate System	全局坐标系
+Local Coordinate System Properties	局部坐标系属性
+WCS	工作坐标系
+Local WCS	局部工作坐标系
+Align WCS	对齐工作坐标系
+Transform WCS	变换工作坐标系
+Drawing Plane	绘图平面
+Working Plane	工作平面
+Origin	原点
+Normal	法向
+Normal Vector	法向量
+Axis	轴
+Axes	坐标轴
+X Axis	X 轴
+Y Axis	Y 轴
+Z Axis	Z 轴
+Vector	矢量
+Plane	平面
+Point	点
+Points	点
+Edge	边
+Edges	边
+Face	面
+Faces	面
+Vertex	顶点
+Vertices	顶点
+Picks	拾取
+Pick Points	拾取点
+Pick Point	拾取点
+Pick End Point	拾取端点
+Pick Edge Center	拾取边中点
+Pick Circle Center	拾取圆心
+Pick Face Center	拾取面中心
+Pick Point on Face	拾取面上的点
+Pick Point on Circle	拾取圆上的点
+Pick Points, Edges, or Faces	拾取点、边或面
+Pick Face	拾取面
+Pick Face Chain	拾取相连面
+Pick Similar Faces	拾取相似面
+Pick Faces by Rectangle Selection	框选面
+Pick Edge	拾取边
+Pick Edge Chain	拾取相连边
+Pick Edge from Coordinates	按坐标拾取边
+Clear Picks	清除拾取
+Keep Pick Mode	保持拾取模式
+Rectangle Selection	框选
+Show Pick List	显示拾取列表
+List of Picks	拾取列表
+Pickpoint List	拾取点列表
+Radius	半径
+Radius Ratio	半径比
+Inner Radius	内半径
+Outer Radius	外半径
+Radius 1	半径 1
+Radius 2	半径 2
+Thickness	厚度
+Center	中心
+Center Point	中心点
+Start Point	起点
+End Point	终点
+Base	底面
+Base Plane	基准面
+Twist Angle	扭转角
+Taper Angle	锥角
+Segments	分段数
+Number of Segments	分段数
+Number of Turns	匝数
+Pitch	螺距
+Bounding Box	包围盒
+Cutting Plane	剖切平面
+Cross Section	横截面
+Cross-Section	横截面
+Surface	表面
+Volume	体积
+Area	面积
+Mass	质量
+Centroid	质心
+Materials	材料
+Material	材料
+Material Properties	材料属性
+New Material	新建材料
+Material Library	材料库
+Material Database	材料库
+Change Material	更改材料
+Change Component	更改所属组件
+Rename/Change	重命名/更改
+Define Material	定义材料
+Material Type	材料类型
+Background	背景
+Background Material	背景材料
+Vacuum	真空
+Air	空气
+Copper	铜
+Aluminum	铝
+Aluminium	铝
+Gold	金
+Silver	银
+Dielectric	电介质
+Lossy Metal	有损金属
+Lossless	无损
+Lossy	有损
+Normal Material	常规材料
+Anisotropic	各向异性
+Isotropic	各向同性
+Dispersive	色散
+Dispersion	色散
+Electric Properties	电学属性
+Magnetic Properties	磁学属性
+Thermal Properties	热学属性
+Mechanical Properties	力学属性
+Permittivity	介电常数
+Relative Permittivity	相对介电常数
+Permeability	磁导率
+Relative Permeability	相对磁导率
+Electric Conductivity	电导率
+Electrical Conductivity	电导率
+Conductivity	电导率
+Magnetic Conductivity	磁损耗电导率
+Thermal Conductivity	导热系数
+Loss Tangent	损耗角正切
+Dielectric Loss Tangent	介质损耗角正切
+Magnetic Loss Tangent	磁损耗角正切
+Reference Frequency	参考频率
+Resistivity	电阻率
+Density	密度
+Specific Heat	比热容
+Heat Capacity	热容
+Young's Modulus	杨氏模量
+Poisson's Ratio	泊松比
+Surface Roughness	表面粗糙度
+Surface Impedance	表面阻抗
+Impedance Sheet	阻抗薄片
+Thin Panel	薄面板
+Coating	涂层
+Material Parameters	材料参数
+Modeling Tolerance	建模公差
+Modeling Tools	建模工具
+Import CAD Data	导入 CAD 数据
+Export CAD Data	导出 CAD 数据
+Healing	几何修复
+Repair	修复
+Simplify	简化
+Assembly	装配
+Assembly Modeling	装配建模
+Assembly View	装配视图
+CAD Import	CAD 导入
+CAD Export	CAD 导出
+Part	零件
+Parts	零件
+Component Library	组件库
+Tetrahedron	四面体
+Hexahedron	六面体
+Curve Tools	曲线工具
+Point List	点列表
+Sectional View	剖视图
+Curvature	曲率
+Distance between points	点间距离
+Local Origin	局部原点
+Outer Diameter	外径
+Inner Diameter	内径
+Diameter	直径
+Layer Thickness	层厚
+Surface Normal	表面法向
+Base Material	基体材料
+Surface Material	表面材料
+Surface Resistance	表面电阻
+Optical Properties	光学属性
+Refractive Index	折射率
+Plasma Frequency	等离子体频率
+Collision Frequency	碰撞频率
+Frequency Dependence	频率依赖性
+Perfect Electric Conductor	理想电导体
+Perfect Magnetic Conductor	理想磁导体
